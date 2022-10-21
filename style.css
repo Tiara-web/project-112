@@ -1,0 +1,25 @@
+body
+{
+  color: white;
+  background-color: #c6ccda;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+
+label
+{
+  font-size:15px;
+  color:black;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: beige;
+}
